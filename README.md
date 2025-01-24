@@ -1,6 +1,7 @@
-### Hi, I`m Ronan!👋
+### Hi, I´m Ronan!👋
 
 ![Ronan GitHub stats](https://github-readme-stats.vercel.app/api?username=ronannt&show_icons=true&theme=tokyonight)
+![Ronan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ronannt&theme=blue-green)
 
 ## Technologies i use in my daily life!
 
