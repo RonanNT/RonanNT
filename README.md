@@ -1,8 +1,8 @@
-### Oi, eu sou Ronan!👋
+### Hi, I`m Ronan!👋
 
 ![Ronan GitHub stats](https://github-readme-stats.vercel.app/api?username=ronannt&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso no meu dia
+## Technologys that i use in my day
 
 <div style="display inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
